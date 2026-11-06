@@ -2,8 +2,11 @@
 
 Predicts at **purchase time** whether an order will arrive after the promised date, so the marketplace can warn customers and prioritise risky orders.
 
-**🔗 Live app:** _paste your Streamlit link here_
-**📸 Screenshot / GIF:** _add here_
+**🔗 Live app:** https://olist-late-delivery.streamlit.app/
+
+## Screenshots
+![Order risk](screenshot1.png)
+![Seller page](screenshot2.png) 
 
 ## Results (test set)
 | Model | ROC-AUC | PR-AUC | Recall | Precision |

@@ -5,8 +5,8 @@ Predicts at **purchase time** whether an order will arrive after the promised da
 **🔗 Live app:** https://olist-late-delivery.streamlit.app/
 
 ## Screenshots
-![Order risk](screenshot1.png)
-![Seller page](screenshot2.png) 
+![Order risk](screenshot1.jpeg)
+![Seller page](screenshot2.jpeg) 
 
 ## Results (test set)
 | Model | ROC-AUC | PR-AUC | Recall | Precision |
